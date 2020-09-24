@@ -8,3 +8,7 @@
     /* Cookies: se guardan en el cliente, él puede ver los valores que hay. */
     // Definir cookie:
     echo $_COOKIE['name'];
+
+?>
+
+<a href="sesiones.php">Sesiones</a>;
