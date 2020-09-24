@@ -32,3 +32,7 @@
 
     // Imprimir las constantes por pantalla.
     echo "\t" . MI_CONSTANTE . "\t" . $_miarray . "\n";
+    
+    // print_r para imprimir arrays.
+    print_r(MI_ARRAY);
+    print_r(MI_ARRAY[1]);
